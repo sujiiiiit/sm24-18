@@ -1,6 +1,6 @@
 # 403 Forbidden
 
-### SM24-18: Empowerment Through Anonymous Support
-Design a safe, anonymous platform for individuals facing harassment or abuse to
-seek and provide support, share their stories, and mobilize for change, creating a
-strong community that drives social progress.
+### SM24-17: Crowdsourced Justice for Inhuman Acts
+Build a system where people can report and document inhuman activities, such as
+trafficking or violence, allowing for crowdsourced evidence collection and public
+awareness campaigns to drive change.
